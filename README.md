@@ -5,6 +5,7 @@
 FEDP - Front-End Design Practise 
 
 > Coded By [BlessTheBoy](https://github.com/BlessTheBoy)
+<br/>
 > Designed By [FrontEndMentor][frontendmentor]
 
 **GridsChallenge** is a simple beautifully designed responsive webpage that's a part of [FrontEndMentor][frontendmentor]'s list of practise projects for Front-End Developers.
